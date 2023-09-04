@@ -11,6 +11,7 @@ It is my first version of QR code login software. Where you can mail every perso
 - SMTP
 - MAIL
 - HTML
+- Google Sheet
 
 ## UPCOMING MODIFICATION : 
 In future we will also develop a CV2 based qr code detection system where anyone can check the barcode easily.
